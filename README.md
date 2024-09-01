@@ -1,2 +1,2 @@
 # Ccode
-evade detection from (ls,ps,c..) and hide in file system;
+hide process/file by hooking syscalls and exporting shared library to the LD_PRELOAD env variable
